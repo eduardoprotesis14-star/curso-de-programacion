@@ -14,4 +14,3 @@ print(f"la division es: {division}")
 #  ejercicio 1
 nombre = "Eduardo Leon"
 edad = 40
-print(f"hola me llamo{nombre} y tengo {edad} años")
